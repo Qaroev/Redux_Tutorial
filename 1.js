@@ -19,4 +19,4 @@ console.log(state);
 
 state = updateState(state, '');
 
-console.log(state)
+console.log(state);
